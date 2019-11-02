@@ -8,7 +8,6 @@ import { Usuario } from '../model/usuario';
 })
 export class Tab2Page {
 
-  protected usuario:Usuario = new Usuario;
 
   constructor() {
 
